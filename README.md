@@ -1,6 +1,4 @@
 ## 
-👋 Hi there, this is @Hspikes
-
 1. Undergraduate in CS, Xi'an Jiaotong University.
 2. I'm interested in Algorithm, Computational theory and Math.
 3. Used to be an OIer.
